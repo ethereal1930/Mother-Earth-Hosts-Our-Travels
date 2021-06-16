@@ -15,9 +15,11 @@
 	display: flex;
 	align-items: center;
 }
+/*
 .socail__item:not(:last-child) {
 	margin-right: 40px;
 }
+*/
 .socail__link {
 	display: block;
 	background-position: center;
