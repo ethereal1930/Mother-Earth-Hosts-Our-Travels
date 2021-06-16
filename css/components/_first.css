@@ -1,7 +1,7 @@
 .first {
 	height: 100vh;
 	min-height: 600px;
-	background-image: url(../../img/fbg.jpg);
+	background-image: url("../../img/fbg.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;

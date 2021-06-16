@@ -9,6 +9,7 @@
 	justify-content: space-between;
 	align-items: center;
 	padding-top: 55px;
+	padding-bottom: 55px;
 }
 .social {
 	display: flex;
@@ -23,19 +24,19 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.socail__link--fb {
-	background-image: url(../../img/Path.svg);
+.social__link--fb {
 	width: 11px;
 	height: 20px;
+	margin-right: 40px;
 }
 .socail__link--tw {
-	background-image: url(../../img/twitter.svg);
 	width: 20px;
 	height: 17px;
 }
 .logo {
+	font-weight: 800;
 	font-size: 22px;
-	line-height: 1px;
+	line-height: 1;
 	text-align: center;
 	letter-spacing: 2px;
 	color: var(--white-color);
