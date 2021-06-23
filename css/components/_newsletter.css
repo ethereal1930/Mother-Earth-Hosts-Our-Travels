@@ -69,4 +69,11 @@
 	color: var(--white-color);
 	position: relative;
 	z-index: 5;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	transition: background-color 0.3s;
+}
+.subscribe-form__btn:hover {
+	background-color: var(--neptune-hover-color);
+	transition: background-color 0.3s;
 }
